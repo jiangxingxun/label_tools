@@ -1,0 +1,5 @@
+1. Please annotate emotion of videos under guide of experts.
+2. Information should be filled in "Parameters"
+3. Click "Start Load" to choose and load videos to be annotated
+4. Choose the right answer carefully.
+5. Click "Next" for annotating next one.
